@@ -8,8 +8,7 @@ class Solution{
             int a = in.nextInt();
             int b = in.nextInt();
             int n = in.nextInt();
-            
-           int result=a;
+            int result=a;
         
         for(int j=0;j<n;j++)
         {
